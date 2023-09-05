@@ -1,8 +1,12 @@
 ---
 categories:
-  - [Intro to Physical Computing]
+  - [PComp]
 ---
 
 # PComp Week 1
 
-Test
+## Assignment
+
+## Reading
+
+## Notes
