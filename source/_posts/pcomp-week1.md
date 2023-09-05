@@ -1,9 +1,8 @@
 ---
+title: PComp Week 1
 categories:
   - [PComp]
 ---
-
-# PComp Week 1
 
 ## Assignment
 
