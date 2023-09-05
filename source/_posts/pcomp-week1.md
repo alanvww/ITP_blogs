@@ -1,7 +1,7 @@
 ---
 title: PComp Week 1
 categories:
-  - [PComp]
+  - [Intro to Physical Computing, PComp]
 ---
 
 ## Assignment
