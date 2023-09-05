@@ -122,13 +122,13 @@ profile:
 
 # Sidebar navigation links
 menu:
-  Home: /
+  All: /
   PComp: /PComp
   ICM: /ICM
   Search: /search
   # About: /about
   # Links: /links
-  # Github: https://github.com/username
+  Github: https://github.com/alanvww
 
 # Social media URL
 sns:
@@ -215,12 +215,12 @@ search:
   page: true
 
   # Local search
-  # adapter:
-  #   range:
-  #     - post
-  #     - page
-  #   per_page: 20
-  #   limit: 10000
+  adapter:
+    range:
+      - post
+      - page
+    per_page: 20
+    limit: 10000
 
   # Custom search
   # adapter:
