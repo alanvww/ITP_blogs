@@ -123,8 +123,8 @@ profile:
 # Sidebar navigation links
 menu:
   All: /
-  PComp: /PComp
-  ICM: /ICM
+  PComp: /categories/PComp
+  ICM: /categories/ICM
   Search: /search
   # About: /about
   # Links: /links
