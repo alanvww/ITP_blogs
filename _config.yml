@@ -5,7 +5,7 @@
 # Site
 title: Alan's ITP Blog
 subtitle: ''
-description: ''
+description: "Alan Ren's ITP documentation blogs for classes"
 keywords:
 author: Alan Ren
 language: en
@@ -13,7 +13,7 @@ timezone: 'America/New_York'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://alanvww.github.com/ITP_blogs/
+url: https://itp.alan.ooo
 permalink: /:categories/:title/
 permalink_defaults:
   lang: en
@@ -71,6 +71,7 @@ default_category: uncategorized
 category_map:
   'Intro to Physical Computing': PComp
   'VisualLanguage': VisualLanguage
+  'Intro to Computational Media': ICM
 tag_map:
 
 # Metadata elements
