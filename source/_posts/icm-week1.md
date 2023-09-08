@@ -1,7 +1,7 @@
 ---
 title: ICM Week 1
 categories:
-  - [ICM]
+  - ICM
 comment: true
 ---
 

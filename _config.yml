@@ -14,7 +14,8 @@ timezone: 'America/New_York'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://itp.alan.ooo
-permalink: /:categories/:title/
+## This is not wrong!
+permalink: :category/:title/
 permalink_defaults:
   lang: en
 pretty_urls:
@@ -41,7 +42,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
