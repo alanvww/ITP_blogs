@@ -45,12 +45,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
+  enable: false
 prismjs:
   enable: false
   preprocess: true
@@ -129,8 +124,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: inside
-
+theme: aomori
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
@@ -138,3 +132,29 @@ deploy:
   repo: https://github.com/alanvww/ITP_blogs
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+# aomori settings
+## Docs: https://aomori.linhong.me/v/chinese/features/theme
+aomori_logo: /images/A.R - With Background - NYU.png
+aomori_logo_typed_animated: false
+
+aomori_widgets:
+  - toc # 文章导航
+  - category #文章分类
+  - tag # 文章标签
+  - recent_posts # 最新文章
+  - archive #文章归档
+
+aomori_favicon: 💜
+
+aomori_social:
+  - icon: logo-instagram
+    url: https://www.instagram.com/alan.j.ren/
+  - icon: person-circle-outline
+    url: https://alan.ooo
+  - icon: mail-outline
+    url: mailto:alan.j.ren@pm.me
+  - icon: call-outline
+    url: tel:6464944949
+
+aomori_disqus_shortname: 'itp-blog-1'
